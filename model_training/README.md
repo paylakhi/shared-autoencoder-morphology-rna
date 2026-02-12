@@ -36,7 +36,7 @@ The model was trained independently on:
 - LUAD
 - LINCS
 - TOARF
-- CRP
+- CDRP
 
 Each dataset is trained separately using the same architecture.
 
